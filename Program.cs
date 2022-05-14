@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!"); //this is vera's file
+            Console.WriteLine("Hello, World!");
         }
     }
 }
